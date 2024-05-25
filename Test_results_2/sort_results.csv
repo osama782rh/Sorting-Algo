@@ -1,0 +1,6 @@
+Algorithm,Time Spent (s),User CPU (s),Sys CPU (s),RAM Usage (KB),Invol CS,Vol CS
+Bubble Sort,70.532244,70.532216,0.000000,0,5,0
+Insertion Sort,12.088038,12.087980,0.000000,0,5,0
+Quick Sort,0.163040,0.163042,0.000000,88,0,0
+Merge Sort,0.020328,0.020328,0.000000,264,0,0
+Esiee-it Sort,0.008649,0.008649,0.000000,0,0,0
