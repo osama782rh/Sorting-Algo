@@ -81,7 +81,7 @@ char* custom_strdup(const char *s) {
 }
 
 void test_sort_performance(void (*sort_func)(char *, int, int), const char *name, char *str, int size, SortResult *result) {
-    char *copy = custom_strdup(str); // Dupliquer la chaîne pour chaque test
+    char *copy = custom_strdup(str); 
     double start_time, end_time;
 
 #ifdef _WIN32

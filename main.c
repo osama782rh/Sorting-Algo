@@ -57,7 +57,7 @@ int main() {
         return 1;  // Retourne une erreur si le dossier n'a pas pu être créé
     }
 
-    int size = 200000; // Augmenter la taille des chaînes à 200 000 caractères
+    int size = 500000; // Augmenter la taille des chaînes à 200 000 caractères
     char *random_string = generate_random_string(size);
     if (random_string == NULL) {
         free(test_dir);
