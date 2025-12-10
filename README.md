@@ -62,7 +62,7 @@ The script will find the latest test results, read the CSV file, print the resul
 - **Insertion Sort**: Comparison-based sorting algorithm that builds the final sorted array one item at a time.
 - **Quick Sort**: Efficient comparison-based sorting algorithm that uses divide-and-conquer.
 - **Merge Sort**: Efficient comparison-based sorting algorithm that uses divide-and-conquer and requires additional memory.
-- **Esiee-it Sort**: Custom hybrid sorting algorithm combining Quick Sort, Heap Sort, and Insertion Sort.
+- **Esiee Sort**: Custom hybrid sorting algorithm combining Quick Sort, Heap Sort, and Insertion Sort.
 
 ## Performance Metrics
 
