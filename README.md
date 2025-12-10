@@ -1,7 +1,7 @@
 
 # Sorting Algorithms Performance Analysis
 
-This project compares the performance of various sorting algorithms in terms of execution time, CPU usage, RAM usage, and context switches. It includes a custom hybrid sorting algorithm named `Esiee-it Sort`.
+This project compares the performance of various sorting algorithms in terms of execution time, CPU usage, RAM usage, and context switches. It includes a custom hybrid sorting algorithm named `Esiee Sort`.
 
 ## Project Structure
 
